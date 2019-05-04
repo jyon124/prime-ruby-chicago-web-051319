@@ -1,6 +1,6 @@
 # Add  code here!
 def prime? numbers
-if Prime.prime?
+if Prime.numbers
   return true
 else
   return false
