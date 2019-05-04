@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(numbers)
-new_number = Prime.numbers
+Prime.each(numbers) do |Prime|
 end
