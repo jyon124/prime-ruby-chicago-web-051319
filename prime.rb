@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(numbers)
-Prime.numbers
+new_number = Prime.numbers
 end
