@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(numbers)
+def prime? numbers
 
 if Prime.numbers
   return true
